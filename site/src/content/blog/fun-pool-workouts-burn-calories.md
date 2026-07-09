@@ -1,9 +1,9 @@
 ---
 title: "Pool Workouts That Feel Like Play but Burn Like a Gym Session"
 description: "Fun pool workouts that torch calories without the sweat or joint strain — beginner-friendly water exercises that feel more like play than a workout."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:13:19Z
 tags: ["pool workout", "water aerobics", "low impact", "summer fitness"]
-draft: true
+draft: false
 image: "/images/swim-s1.png"
 ---
 
