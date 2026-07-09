@@ -1,0 +1,38 @@
+<svg viewBox="0 0 720 460" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" role="img" aria-label="Pool workout circuit map">
+  <rect x="0" y="0" width="720" height="460" fill="#ffffff"/>
+  <text x="36" y="42" font-size="24" font-weight="700" fill="#1a1a1a">The Pool Workout — Circuit Map</text>
+  <text x="36" y="65" font-size="14" fill="#6b7280">Low impact · high effort · feels like play</text>
+  <line x1="54" y1="96" x2="54" y2="414" stroke="#cfe6ef" stroke-width="3"/>
+  <circle cx="54" cy="118" r="9" fill="#1592b8"/>
+  <rect x="80" y="96" width="604" height="52" rx="10" fill="#eef7fa" stroke="#cfe6ef"/>
+  <rect x="92" y="110" width="70" height="24" rx="12" fill="#1592b8"/>
+  <text x="127" y="127" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3 min</text>
+  <text x="176" y="120" font-size="15" font-weight="700" fill="#1a1a1a">Warm-Up</text>
+  <text x="176" y="139" font-size="12.5" fill="#4b5563">Walk the shallow end, swinging your arms · then jog gently</text>
+  <circle cx="54" cy="192" r="9" fill="#1592b8"/>
+  <rect x="80" y="160" width="604" height="200" rx="10" fill="#eef7fa" stroke="#cfe6ef"/>
+  <text x="176" y="186" font-size="15" font-weight="700" fill="#1a1a1a">The Fun Circuit</text>
+  <text x="176" y="205" font-size="12.5" fill="#4b5563">45 sec each · repeat the whole circuit 2–3×</text>
+  <g font-size="13" fill="#1a1a1a">
+    <rect x="100" y="220" width="270" height="30" rx="8" fill="#fff" stroke="#cfe6ef"/>
+    <circle cx="118" cy="235" r="9" fill="#1592b8"/><text x="118" y="239" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+    <text x="136" y="239">Pool Jogging</text>
+    <rect x="394" y="220" width="270" height="30" rx="8" fill="#fff" stroke="#cfe6ef"/>
+    <circle cx="412" cy="235" r="9" fill="#1592b8"/><text x="412" y="239" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+    <text x="430" y="239">Water Jumping Jacks</text>
+    <rect x="100" y="258" width="270" height="30" rx="8" fill="#fff" stroke="#cfe6ef"/>
+    <circle cx="118" cy="273" r="9" fill="#1592b8"/><text x="118" y="277" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+    <text x="136" y="277">Leg Swings</text>
+    <rect x="394" y="258" width="270" height="30" rx="8" fill="#fff" stroke="#cfe6ef"/>
+    <circle cx="412" cy="273" r="9" fill="#1592b8"/><text x="412" y="277" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+    <text x="430" y="277">Wall Push-Offs</text>
+    <rect x="100" y="296" width="564" height="30" rx="8" fill="#fff" stroke="#cfe6ef"/>
+    <circle cx="118" cy="311" r="9" fill="#1592b8"/><text x="118" y="315" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+    <text x="136" y="315">Water "Cross-Country Ski"</text>
+  </g>
+  <circle cx="54" cy="386" r="9" fill="#1592b8"/>
+  <rect x="80" y="368" width="604" height="46" rx="10" fill="#eef7fa" stroke="#cfe6ef"/>
+  <rect x="92" y="379" width="70" height="24" rx="12" fill="#1592b8"/>
+  <text x="127" y="396" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">2 min</text>
+  <text x="176" y="396" font-size="14" font-weight="700" fill="#1a1a1a">Cool-Down<tspan font-weight="400" fill="#4b5563" font-size="12.5">   — float on your back or walk slow laps, deep breaths</tspan></text>
+</svg>

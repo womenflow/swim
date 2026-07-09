@@ -18,6 +18,10 @@ Water gives you **resistance in every direction** — so every move works harder
 
 Oh, and staying cool while exercising in July? Unbeatable.
 
+Here's the full circuit mapped out before we jump in:
+
+![The pool workout circuit map](/images/swim-diagram.svg)
+
 ## Warm Up (3 minutes)
 Walk across the shallow end, swinging your arms. Then jog gently in place. Feel how the water pushes back? That's the resistance already doing its thing.
 
