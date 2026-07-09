@@ -1,10 +1,21 @@
 ---
 title: "Water Aerobics: Full Body Workout in the Pool"
-description: "Professional guide about water aerobics: full body workout in the pool"
-pubDate: 2026-07-09T19:52:03Z
-tags: ["lifestyle", "wellness", "guide"]
+description: "Try this low-impact, high-effectiveness pool workout"
+pubDate: 2026-07-09T20:00:00Z
+tags: ["fitness", "water", "workout"]
 draft: false
-image: "images/water-aerobics-pool.jpg"
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=400&fit=crop"
 ---
 
-*Article coming with beautiful imagery*
+Water aerobics offers an incredible full-body workout while being gentle on your joints.
+
+## Why Water Aerobics?
+The resistance of water provides strength training while buoyancy reduces impact.
+
+## 30-Minute Routine
+Lower body focus, upper body work, and cardio bursts with recovery periods.
+
+## Benefits
+Low-impact joint protection with effective muscle building and cardiovascular fitness.
+
+Perfect for all ages and fitness levels!
